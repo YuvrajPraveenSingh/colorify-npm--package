@@ -1,0 +1,23 @@
+{
+  "name": "colorify-logs",
+  "version": "1.0.0",
+  "description": "A library to colorify your logs . ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuvrajPraveenSingh/colorify-npm--package.git"
+  },
+  "keywords": [
+    "console log colors",
+    "colorify log"
+  ],
+  "author": "Yuvraj Singh <yuv00191@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YuvrajPraveenSingh/colorify-npm--package/issues"
+  },
+  "homepage": "https://github.com/YuvrajPraveenSingh/colorify-npm--package#readme"
+}
